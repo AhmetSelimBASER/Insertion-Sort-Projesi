@@ -26,3 +26,6 @@
 
 4. Time Complexity: Average case: Aradığımız sayının ortada olması
 
+## [Patika](https://www.patika.dev/) Profil Linkim
+
+[https://app.patika.dev/hancock](https://app.patika.dev/hancock)
